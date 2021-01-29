@@ -84,7 +84,7 @@ function App() {
           title='Solar for New Roofs'
           desc="Solar Roof Costs Less Than a New Roof Plus Solar Panels"
           descLink=''
-          backgroungImag={SolarPanels}
+          backgroungImag={SolarRoof}
           leftBtnTxt ="ORDER NOW"
           leftBtnLink=""
           rightBtnTxt ="LEARN MORE"

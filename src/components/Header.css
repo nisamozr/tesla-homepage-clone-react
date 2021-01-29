@@ -26,10 +26,11 @@
 }
 .header_right{
     display: flex;
-    
+    margin-right: 30px;
     justify-content: flex-end;
     text-transform: uppercase;
 }
 .header_right p{
     margin: 10px;
+   
 }
